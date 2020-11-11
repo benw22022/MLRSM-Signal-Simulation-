@@ -1,0 +1,10 @@
+../root_samples/A1_pp_to_mumujj_MWR_0.5_MN5_0.6_MN46_10_WRWR_NoHiggs.root
+../root_samples/A1_pp_to_mumujj_MWR_0.5_MN5_0.7_MN46_10_WRWR_NoHiggs.root
+../root_samples/A1_pp_to_mumujj_MWR_0.5_MN5_0.8_MN46_10_WRWR_NoHiggs.root
+../root_samples/A2_pp_to_mumujj_MWR_0.5_MN5_1.1_MN46_10_WRWR_NoHiggs.root
+../root_samples/B1_pp_to_mumujj_MWR_0.5_MN5_0.4_MN46_10_WRWR_NoHiggs.root
+../root_samples/B1_pp_to_mumujj_MWR_0.6_MN5_0.4_MN46_10_WRWR_NoHiggs.root
+../root_samples/B1_pp_to_mumujj_MWR_0.6_MN5_0.5_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_MWR_0.9_MN5_0.4_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_MWR_1.0_MN5_0.4_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_MWR_2.1_MN5_0.9_MN46_10_WRWR_NoHiggs.root
