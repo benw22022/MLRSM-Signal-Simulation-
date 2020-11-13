@@ -1,0 +1,214 @@
+Rivet 2.7.2 running on machine dacc5e898f23 (x86_64) at 2020-11-12 15:36:17
+Rivet.Analysis.Handler: WARN  Analysis 'MLRSM_mumujj' is unvalidated: be careful, it may be broken!
+Reading events from '../../hepmc_samples/B1_pp_to_mumujj_MWR_0.5_MN5_0.4_MN46_0.4_WRWR_NoHiggs_CalcWidths_True.hepmc'
+Proccessing event: 0
+#--------------------------------------------------------------------------
+#                         FastJet release 3.3.2
+#                 M. Cacciari, G.P. Salam and G. Soyez                  
+#     A software package for jet finding and analysis at colliders      
+#                           http://fastjet.fr                           
+#	                                                                      
+# Please cite EPJC72(2012)1896 [arXiv:1111.6097] if you use this package
+# for scientific work and optionally PLB641(2006)57 [hep-ph/0512210].   
+#                                                                       
+# FastJet is provided without warranty under the terms of the GNU GPLv2.
+# It uses T. Chan's closest pair algorithm, S. Fortune's Voronoi code
+# and 3rd party plugin jet algorithms. See COPYING file for details.
+#--------------------------------------------------------------------------
+Event 100 (0:00:04 elapsed)
+Event 200 (0:00:07 elapsed)
+Event 300 (0:00:10 elapsed)
+Event 400 (0:00:13 elapsed)
+Event 500 (0:00:17 elapsed)
+Event 600 (0:00:20 elapsed)
+Event 700 (0:00:23 elapsed)
+Event 800 (0:00:26 elapsed)
+Event 900 (0:00:29 elapsed)
+Event 1000 (0:00:33 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Skipping finalize in periodic dump of MLRSM_mumujj as it is not declared reentrant.
+Rivet.Analysis.Handler: INFO  Processed 1000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Proccessing event: 1000
+Event 1100 (0:00:36 elapsed)
+Event 1200 (0:00:39 elapsed)
+Event 1300 (0:00:42 elapsed)
+Event 1400 (0:00:45 elapsed)
+Event 1500 (0:00:48 elapsed)
+Event 1600 (0:00:52 elapsed)
+Event 1700 (0:00:55 elapsed)
+Event 1800 (0:00:59 elapsed)
+Event 1900 (0:01:02 elapsed)
+Event 2000 (0:01:05 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 2000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 2100 (0:01:08 elapsed)
+Proccessing event: 2000
+Event 2200 (0:01:11 elapsed)
+Event 2300 (0:01:15 elapsed)
+Event 2400 (0:01:18 elapsed)
+Event 2500 (0:01:21 elapsed)
+Event 2600 (0:01:24 elapsed)
+Event 2700 (0:01:27 elapsed)
+Event 2800 (0:01:30 elapsed)
+Event 2900 (0:01:34 elapsed)
+Event 3000 (0:01:37 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 3000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 3100 (0:01:40 elapsed)
+Proccessing event: 3000
+Event 3200 (0:01:44 elapsed)
+Event 3300 (0:01:47 elapsed)
+Event 3400 (0:01:50 elapsed)
+Event 3500 (0:01:53 elapsed)
+Event 3600 (0:01:57 elapsed)
+Event 3700 (0:02:00 elapsed)
+Event 3800 (0:02:03 elapsed)
+Event 3900 (0:02:06 elapsed)
+Event 4000 (0:02:09 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 4000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 4100 (0:02:12 elapsed)
+Event 4200 (0:02:15 elapsed)
+Proccessing event: 4000
+Event 4300 (0:02:19 elapsed)
+Event 4400 (0:02:22 elapsed)
+Event 4500 (0:02:25 elapsed)
+Event 4600 (0:02:29 elapsed)
+Event 4700 (0:02:32 elapsed)
+Event 4800 (0:02:35 elapsed)
+Event 4900 (0:02:38 elapsed)
+Event 5000 (0:02:41 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 5000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 5100 (0:02:44 elapsed)
+Event 5200 (0:02:47 elapsed)
+Event 5300 (0:02:50 elapsed)
+Proccessing event: 5000
+Event 5400 (0:02:54 elapsed)
+Event 5500 (0:02:57 elapsed)
+Event 5600 (0:03:00 elapsed)
+Event 5700 (0:03:03 elapsed)
+Event 5800 (0:03:06 elapsed)
+Event 5900 (0:03:09 elapsed)
+Event 6000 (0:03:13 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 6000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 6100 (0:03:16 elapsed)
+Event 6200 (0:03:19 elapsed)
+Event 6300 (0:03:22 elapsed)
+Event 6400 (0:03:25 elapsed)
+Proccessing event: 6000
+Event 6500 (0:03:28 elapsed)
+Event 6600 (0:03:31 elapsed)
+Event 6700 (0:03:35 elapsed)
+Event 6800 (0:03:38 elapsed)
+Event 6900 (0:03:41 elapsed)
+Event 7000 (0:03:44 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 7000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 7100 (0:03:47 elapsed)
+Event 7200 (0:03:50 elapsed)
+Event 7300 (0:03:54 elapsed)
+Event 7400 (0:03:57 elapsed)
+Proccessing event: 7000
+Event 7500 (0:04:00 elapsed)
+Event 7600 (0:04:03 elapsed)
+Event 7700 (0:04:06 elapsed)
+Event 7800 (0:04:10 elapsed)
+Event 7900 (0:04:13 elapsed)
+Event 8000 (0:04:17 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 8000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 8100 (0:04:20 elapsed)
+Event 8200 (0:04:23 elapsed)
+Event 8300 (0:04:26 elapsed)
+Event 8400 (0:04:29 elapsed)
+Event 8500 (0:04:32 elapsed)
+Proccessing event: 8000
+Event 8600 (0:04:35 elapsed)
+Event 8700 (0:04:38 elapsed)
+Event 8800 (0:04:41 elapsed)
+Event 8900 (0:04:44 elapsed)
+Event 9000 (0:04:48 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 9000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Event 9100 (0:04:51 elapsed)
+Event 9200 (0:04:54 elapsed)
+Event 9300 (0:04:57 elapsed)
+Event 9400 (0:05:00 elapsed)
+Event 9500 (0:05:03 elapsed)
+Event 9600 (0:05:06 elapsed)
+Proccessing event: 9000
+Event 9700 (0:05:10 elapsed)
+Event 9800 (0:05:13 elapsed)
+Event 9900 (0:05:16 elapsed)
+Event 10000 (0:05:19 elapsed)
+Rivet.Analysis.Handler: INFO  Dumping intermediate results to whatever.yoda.
+Rivet.Analysis.Handler: INFO  Finalising analyses
+Rivet.Analysis.Handler: INFO  Processed 10000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Finished event loop at 2020-11-12 15:41:36
+Cross-section = 2.456180e+00 pb
+
+Rivet.Analysis.Handler: INFO  Finalising analyses
+SMEAR OPTION: 0, JET_SMEAR: 1, MUON_SMEAR: 1
+2456.18
+******* IMPORTANT INFORMATION *********
+Number of Events surviving9356
+Number of Events Before Num Jets cut0
+Number of Events After Num Jets cut0
+ Total XS MadGraph:  2456.18
+ Total XS error: 0
+ Total Sum of Weights: 2.45618
+ Error on Total Sum of Weights: 0.0245618
+ Selected Events Sum of Weights: 2.298
+ Error on Selected Events Sum of Weights: 0.0237577
+ Fiducial crossection: 2298
+ Error of fiducial crossection: 33.0532
+************************
+Rivet.Analysis.Handler: INFO  Processed 10000 events
+
+The MCnet usage guidelines apply to Rivet: see http://www.montecarlonet.org/GUIDELINES
+Please acknowledge plots made with Rivet analyses, and cite arXiv:1003.0694 (http://arxiv.org/abs/1003.0694)
+Rivet run completed at 2020-11-12 15:41:36, time elapsed = 0:05:19
+Histograms written to /mnt/e/PhD/Work/Majorana/signal_simulation/rivet_analysis/tmp_file_B1_pp_to_mumujj_MWR_0.5_MN5_0.4_MN46_0.4_WRWR_NoHiggs_CalcWidths_Tru/whatever.yoda
+
+

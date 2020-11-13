@@ -1,0 +1,82 @@
+import model MLRSM
+define bsmhiggs h h2 h02 h03 h+ hp2 hl++ hr++ h3 a02 h- hm2 hl-- hr--
+define j = g u c d s b t u~ c~ d~ s~ b~ t~
+generate p p > mu+ mu+ j j / bsmhiggs w+ w- @1
+add process p p > mu- mu- j j / bsmhiggs w+ w- @2
+output simulation_files/Test_pp_to_mumujj_MWR_1_MN5_1_MN46_1_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 1000
+set MN4 = 1000
+set MN5 = 1000
+set MN6 = 1000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_1_MN5_2_MN46_2_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 1000
+set MN4 = 2000
+set MN5 = 2000
+set MN6 = 2000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_2_MN5_1_MN46_1_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 2000
+set MN4 = 1000
+set MN5 = 1000
+set MN6 = 1000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_2_MN5_2_MN46_2_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 2000
+set MN4 = 2000
+set MN5 = 2000
+set MN6 = 2000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_2_MN5_3_MN46_3_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 2000
+set MN4 = 3000
+set MN5 = 3000
+set MN6 = 3000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_3_MN5_2_MN46_2_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 2000
+set MN5 = 2000
+set MN6 = 2000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/Test_pp_to_mumujj_MWR_3_MN5_3_MN46_3_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 3000
+set MN5 = 3000
+set MN6 = 3000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto

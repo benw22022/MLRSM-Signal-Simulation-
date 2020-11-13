@@ -172,7 +172,22 @@ namespace Rivet {
       JET_SMEAR = 1;
       MUON_SMEAR = 1;
 
+      //std::string outfile = Analysis::getOption<std::string>("outfile", 0);
+
+      //std::string string = Analysis::getOption(string);
+
+      //std::string outfile = getOption("outfile")
+      //std::string outfile = "rivet_outfile";
+      //if (getOption("OUTFILENAME") == "0") { outfile = outfile + "1.txt"; } 
+      //if (getOption("OUTFILENAME") == "1") { outfile = outfile + "2.txt"; } 
+      //if (getOption("OUTFILENAME") == "2") { outfile = outfile + "3.txt"; } 
+
       // Create output text file
+      //outFile.open(outfile);
+      //outFile.open("tmp_file.txt");
+      //outFile << "test" << std::endl; 
+      //outFile.close();
+
       outFile.open("rivet_output.txt");
 
       //// Initialise and register projections (declaring particles)

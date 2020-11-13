@@ -1,0 +1,38 @@
+import model MLRSM
+define bsmhiggs h h2 h02 h03 h+ hp2 hl++ hr++ h3 a02 h- hm2 hl-- hr--
+define j = g u c d s b t u~ c~ d~ s~ b~ t~
+generate p p > mu+ mu+ j j / bsmhiggs w+ w- @1
+add process p p > mu- mu- j j / bsmhiggs w+ w- @2
+output simulation_files/D_pp_to_mumujj_MWR_0.5_MN5_0.5_MN46_0.5_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 500.0
+set MN4 = 500.0
+set MN5 = 500.0
+set MN6 = 500.0
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/D_pp_to_mumujj_MWR_0.6_MN5_0.6_MN46_0.6_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 600.0
+set MN4 = 600.0
+set MN5 = 600.0
+set MN6 = 600.0
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output simulation_files/D_pp_to_mumujj_MWR_0.7_MN5_0.7_MN46_0.7_WRWR_W1H1J1
+launch
+shower=pythia8
+set MW2 = 700.0
+set MN4 = 700.0
+set MN5 = 700.0
+set MN6 = 700.0
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto

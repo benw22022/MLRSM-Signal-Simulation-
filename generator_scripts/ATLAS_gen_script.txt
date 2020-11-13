@@ -1,0 +1,191 @@
+import model MLRSM
+define bsmhiggs h h2 h02 h03 h+ hp2 hl++ hr++ h3 a02 h- hm2 hl-- hr--
+generate p p > mu+ mu+ j j / bsmhiggs w+ w- @1
+add process p p > mu- mu- j j / bsmhiggs w+ w- @2
+output ATLAS_pp_to_mumujj_WR_1000_MN5_1000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 1000
+set MN4 = 10000
+set MN5 = 1000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_1500_MN5_1000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 1500
+set MN4 = 10000
+set MN5 = 1000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_1500_MN5_1500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 1500
+set MN4 = 10000
+set MN5 = 1500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_2000_MN5_1000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 2000
+set MN4 = 10000
+set MN5 = 1000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_2000_MN5_1500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 2000
+set MN4 = 10000
+set MN5 = 1500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_2500_MN5_1500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 2500
+set MN4 = 10000
+set MN5 = 1500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_2500_MN5_2000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 2500
+set MN4 = 10000
+set MN5 = 2000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3000_MN5_1000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 10000
+set MN5 = 1000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3000_MN5_1500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 10000
+set MN5 = 1500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3000_MN5_2000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 10000
+set MN5 = 2000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3000_MN5_2500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3000
+set MN4 = 10000
+set MN5 = 2500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3500_MN5_1500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3500
+set MN4 = 10000
+set MN5 = 1500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3500_MN5_2000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3500
+set MN4 = 10000
+set MN5 = 2000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_3500_MN5_2500_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 3500
+set MN4 = 10000
+set MN5 = 2500
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_4000_MN5_1000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 4000
+set MN4 = 10000
+set MN5 = 1000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_4000_MN5_2000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 4000
+set MN4 = 10000
+set MN5 = 2000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
+output ATLAS_pp_to_mumujj_WR_4000_MN5_3000_MN46_10000_WRWR_NoHiggs
+launch
+shower=pythia8
+set MW2 = 4000
+set MN4 = 10000
+set MN5 = 3000
+set MN6 = 10000
+set WW2 = auto
+set WN4 = auto
+set WN5 = auto
+set WN6 = auto
