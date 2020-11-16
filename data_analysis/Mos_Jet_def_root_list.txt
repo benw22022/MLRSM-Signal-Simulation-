@@ -1,0 +1,7 @@
+../root_samples/Test_pp_to_mumujj_MWR_1_MN5_1_MN46_1_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_1_MN5_2_MN46_2_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_2_MN5_1_MN46_1_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_2_MN5_2_MN46_2_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_2_MN5_3_MN46_3_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_3_MN5_2_MN46_2_WRWR_W1H1J1.root
+../root_samples/Test_pp_to_mumujj_MWR_3_MN5_3_MN46_3_WRWR_W1H1J1.root

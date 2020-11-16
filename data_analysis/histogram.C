@@ -187,7 +187,6 @@ void histogram::set_legend_names(std::string& legend_template){
       }
       else if(strncmp(&legend_template[i],"$",1) == 0 && begin_flag == true){
         begin_flag = false;
-        std::cout << "Found flag: " << tmp_str << std::endl;
         flags.push_back(tmp_str);
         tmp_str.clear();
       }
@@ -200,13 +199,9 @@ void histogram::set_legend_names(std::string& legend_template){
     tmp_str.clear();
     for(int i=0; i<root_files.size(); i++){
       std::vector<std::string> tmp_vec;
-      std::cout << root_files[i] << std::endl;
       for(int j=0; j<flags.size(); j++){
 
         std::size_t found = root_files[i].find(flags[j]);
-
-        std::cout << "found flag " << flags[j] << " at position " << found << std::endl;
-
         bool begin_flag = false;
 
         for(size_t k=found; k<root_files[i].length(); k++){
@@ -233,7 +228,6 @@ void histogram::set_legend_names(std::string& legend_template){
    m_legend_names.clear();
    for(int i=0; i<flag_values.size(); i++){ 
      std::string legend = "M_{W_{R}} = " + flag_values[i][0] + "      M_{N_{5}} = " + flag_values[i][1] + "     M_{N_{4,6}} = " + flag_values[i][2];
-     std::cout << legend << std::endl;
      m_legend_names.push_back(legend);
    }
    
@@ -270,7 +264,7 @@ void histogram::plot_hist(const std::string& filename){
   hists[0]->SetMinimum(m_y_min);
   hists[0]->SetStats(0);
 
-  vector<int> colours = {600, 840+5, 900, 920, 616, 860, 632,  432, 880, 416+2, 800,  820-2,  400-6};
+  vector<int> colours = {kRed, kOrange, kSpring+9, kYellow+2, kGreen+2, kCyan, kAzure+10, kBlue, kViolet, kMagenta+2, kPink+10,};
   
   for(int i=0; i<m_data_files.size(); i++){
     if(i < colours.size()){hists[i]->SetLineColor(colours[i]); }
@@ -297,7 +291,7 @@ void histogram::plot_hist(const std::string& filename){
     axis->ChangeLabel(-1,-1,-1,-1,-1,-1,m_upper_axis_bounds);
   }
 
-  auto legend = new TLegend(0.9,0.9,0.5,0.7);
+  auto legend = new TLegend(0.9,0.9,0.4,0.7);
   if(m_show_legend == true){
     for(int i=0; i<m_data_files.size(); i++){
       legend->AddEntry(m_hist_names[i].c_str(),m_legend_names[i].c_str(),"l");
