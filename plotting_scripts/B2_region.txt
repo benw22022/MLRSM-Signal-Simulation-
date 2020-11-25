@@ -1,0 +1,4 @@
+../root_samples/B2_pp_to_mumujj_WR_5000_MN5_1500_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_WR_6000_MN5_1500_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_WR_6000_MN5_2000_MN46_10_WRWR_NoHiggs.root
+../root_samples/B2_pp_to_mumujj_WR_7000_MN5_3500_MN46_10_WRWR_NoHiggs.root
